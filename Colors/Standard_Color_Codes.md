@@ -58,5 +58,12 @@ The following list has been inspired from plots that have been previously publis
 The following list has been inspired from plots that have been previously published by **The Journal of the American Medical Association (JAMA)**
 
 * ![#374E55FF](https://via.placeholder.com/15/374E55FF/00000000?text=+) `#374E55FF`
+* ![#DF8F44FF](https://via.placeholder.com/15/DF8F44FF/00000000?text=+) `#DF8F44FF`
+* ![#B24745FF](https://via.placeholder.com/15/B24745FF/00000000?text=+) `#B24745FF`
+* ![#79AF97FF](https://via.placeholder.com/15/79AF97FF/00000000?text=+) `#79AF97FF`
+* ![#6A6599FF](https://via.placeholder.com/15/6A6599FF/00000000?text=+) `#6A6599FF`
+* ![#80796BFF](https://via.placeholder.com/15/80796BFF/00000000?text=+) `#80796BFF`
+
+
 
 
