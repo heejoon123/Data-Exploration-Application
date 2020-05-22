@@ -12,11 +12,11 @@ The following information in this particular README file is for a general summar
 
 Currently within the Data tab of this application, there are two sub-tabs where the first is the very first step of using this tool, loading in the data file. The second sub-tab is taking that loaded file and looking at specific columns of interest and potentially downloading that sub-data as a csv file into a local folder.
 
-<div class="text-purple">
-  Uploading Data Files:
-</div>
+### Uploading Data:
 
-Text
+<div class="text-purple">
+  This text is purple
+</div>
 
 ### Looking at subset of data and downlaoding it:
 
