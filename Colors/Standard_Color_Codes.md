@@ -43,3 +43,20 @@ The following list has been inspired from plots that have been previously publis
 * ![#6f99ADFF](https://via.placeholder.com/15/6f99ADFF/00000000?text=+) `#6f99ADFF`
 * ![#FFDC91FF](https://via.placeholder.com/15/FFDC91FF/00000000?text=+) `#FFDC91FF`
 * ![#EE4C97FF](https://via.placeholder.com/15/EE4C97FF/00000000?text=+) `#EE4C97FF`
+
+The following list has been inspired from plots that have been previously published by **Lancet Oncology**
+
+* ![#00468BFF](https://via.placeholder.com/15/00468BFF/00000000?text=+) `#00468BFF`
+* ![#ED0000FF](https://via.placeholder.com/15/ED0000FF/00000000?text=+) `#ED0000FF`
+* ![#0099B4FF](https://via.placeholder.com/15/0099B4FF/00000000?text=+) `#0099B4FF`
+* ![#925E9FFF](https://via.placeholder.com/15/925E9FFF/00000000?text=+) `#925E9FFF`
+* ![#FDAF91FF](https://via.placeholder.com/15/FDAF91FF/00000000?text=+) `#FDAF91FF`
+* ![#AD002AFF](https://via.placeholder.com/15/AD002AFF/00000000?text=+) `#AD002AFF`
+* ![#ADB6B6FF](https://via.placeholder.com/15/ADB6B6FF/00000000?text=+) `#ADB6B6FF`
+* ![#1B1919FF](https://via.placeholder.com/15/1B1919FF/00000000?text=+) `#1B1919FF`
+
+
+
+
+
+
