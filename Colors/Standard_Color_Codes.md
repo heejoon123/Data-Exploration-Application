@@ -5,9 +5,6 @@ There are a lot of colors available for the 2D Plot feature of this program. But
 The more standard plot colors have been posted below and have come from [R's Scientific Journal and Sci-Fi Themed
 Color Palettes for ggplot2](https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html).
 
-The fun colors have come from [a website called color-hex.](https://www.color-hex.com/)
-Feel free to visit and traverse the websites if none of the color choices below are to your own liking. 
-
 ## Some Standard Plot Colors Sourced from Journals:
 
 The following list has been inspired from plots that have previously been published by the **Nature Publishing Group** 
@@ -27,6 +24,3 @@ The following list has been inspired from plots that have been previously publis
 
 * ![#3B4992FF](https://via.placeholder.com/15/3B4992FF/00000000?text=+) `#3B4992FF`
 
-## Exciting Colors
-
-## Soothing Colors
