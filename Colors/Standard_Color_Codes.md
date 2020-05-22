@@ -64,6 +64,15 @@ The following list has been inspired from plots that have been previously publis
 * ![#6A6599FF](https://via.placeholder.com/15/6A6599FF/00000000?text=+) `#6A6599FF`
 * ![#80796BFF](https://via.placeholder.com/15/80796BFF/00000000?text=+) `#80796BFF`
 
+The following list has been inspired from plots that have been previously published by **Journal of Clinical Oncology (JCO)**
 
-
-
+* ![#0073C2FF](https://via.placeholder.com/15/0073C2FF/00000000?text=+) `#0073C2FF`
+* ![#EFC000FF](https://via.placeholder.com/15/EFC000FF/00000000?text=+) `#EFC000FF`
+* ![#868686FF](https://via.placeholder.com/15/868686FF/00000000?text=+) `#868686FF`
+* ![#CD534CFF](https://via.placeholder.com/15/CD534CFF/00000000?text=+) `#CD534CFF`
+* ![#7AA6DCFF](https://via.placeholder.com/15/7AA6DCFF/00000000?text=+) `#7AA6DCFF`
+* ![#003C67FF](https://via.placeholder.com/15/003C67FF/00000000?text=+) `#003C67FF`
+* ![#8F7700FF](https://via.placeholder.com/15/8F7700FF/00000000?text=+) `#8F7700FF`
+* ![#3B3B3BFF](https://via.placeholder.com/15/3B3B3BFF/00000000?text=+) `#3B3B3BFF`
+* ![#A73030FF](https://via.placeholder.com/15/A73030FF/00000000?text=+) `#A73030FF`
+* ![#4A6990FF](https://via.placeholder.com/15/4A6990FF/00000000?text=+) `#4A6990FF`
