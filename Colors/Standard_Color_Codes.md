@@ -25,6 +25,14 @@ The following list has been inspired from plots that have been previously publis
 * ![#3B4992FF](https://via.placeholder.com/15/3B4992FF/00000000?text=+) `#3B4992FF`
 * ![#EE0000FF](https://via.placeholder.com/15/EE0000FF/00000000?text=+) `#EE0000FF`
 * ![#008B45FF](https://via.placeholder.com/15/008B45FF/00000000?text=+) `#008B45FF`
-* ![#008B45FF](https://via.placeholder.com/15/008B45FF/00000000?text=+) `#008B45FF`
+* ![#631879FF](https://via.placeholder.com/15/631879FF/00000000?text=+) `#631879FF`
+* ![#008280FF](https://via.placeholder.com/15/008280FF/00000000?text=+) `#008280FF`
+* ![#BB0021FF](https://via.placeholder.com/15/BB0021FF/00000000?text=+) `#BB0021FF`
+* ![#5F559BFF](https://via.placeholder.com/15/5F559BFF/00000000?text=+) `#5F559BFF`
+* ![#A20056FF](https://via.placeholder.com/15/A20056FF/00000000?text=+) `#A20056FF`
+* ![#808180FF](https://via.placeholder.com/15/808180FF/00000000?text=+) `#808180FF`
+* ![#1B1919FF](https://via.placeholder.com/15/1B1919FF/00000000?text=+) `#1B1919FF`
+
+
 
 
