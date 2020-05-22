@@ -7,4 +7,16 @@ Welcome to the dAbLication repository. This repository holds the tool that could
 
 The following information in this particular README file is for a general summary of what each feature of the application does. For more specific information, please refer to the tutorials folder and look at the file explanation of interest. 
 
+## Data Tab:
+
+Currently within the Data tab of this application, there are two sub-tabs where the first is the very first step of using this tool, loading in the data file. The second sub-tab is taking that loaded file and looking at specific columns of interest and potentially downloading that sub-data as a csv file into a local folder.
+
+### Uploading Data Files:
+
+Text
+
+### Looking at subset of data and downlaoding it:
+
+Text
+
 Thank you for your support!
