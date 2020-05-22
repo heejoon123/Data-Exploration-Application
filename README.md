@@ -14,9 +14,7 @@ Currently within the Data tab of this application, there are two sub-tabs where 
 
 ### Uploading Data:
 
-<div class="text-purple">
-  This text is purple
-</div>
+Oh look this is [Blue](#)
 
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
