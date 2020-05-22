@@ -17,6 +17,15 @@ The following list has been inspired from plots that have previously been publis
 * ![#00A087FF](https://via.placeholder.com/15/00A087FF/00000000?text=+) `#00A087FF`
 * ![#3C5488FF](https://via.placeholder.com/15/3C5488FF/00000000?text=+) `#3C5488FF`
 * ![#F39B7FFF](https://via.placeholder.com/15/F39B7FFF/00000000?text=+) `#F39B7FFF`
+* ![#8491B4FF](https://via.placeholder.com/15/8491B4FF/00000000?text=+) `#8491B4FF`
+* ![#91D1C2FF](https://via.placeholder.com/15/91D1C2FF/00000000?text=+) `#91D1C2FF`
+* ![#DC0000FF](https://via.placeholder.com/15/DC0000FF/00000000?text=+) `#DC0000FF`
+* ![#7E6148FF](https://via.placeholder.com/15/7E6148FF/00000000?text=+) `#7E6148FF`
+* ![#B09C85FF](https://via.placeholder.com/15/B09C85FF/00000000?text=+) `#B09C85FF`
+
+The following list has been inspired from plots that have been previously published by **American Association for the Advancement of Science**
+
+* ![#3B4992FF](https://via.placeholder.com/15/3B4992FF/00000000?text=+) `#3B4992FF`
 
 ## Exciting Colors
 
