@@ -38,8 +38,8 @@ The following list has been inspired from plots that have been previously publis
 * ![#BC3C29FF](https://via.placeholder.com/15/BC3C29FF/00000000?text=+) `#BC3C29FF`
 * ![#0072B5FF](https://via.placeholder.com/15/0072B5FF/00000000?text=+) `#0072B5FF`
 * ![#E18727FF](https://via.placeholder.com/15/E18727FF/00000000?text=+) `#E18727FF`
-
-
-
-
-
+* ![#20854EFF](https://via.placeholder.com/15/20854EFF/00000000?text=+) `#20854EFF`
+* ![#7876B1FF](https://via.placeholder.com/15/7876B1FF/00000000?text=+) `#7876B1FF`
+* ![#6f99ADFF](https://via.placeholder.com/15/6f99ADFF/00000000?text=+) `#6f99ADFF`
+* ![#FFDC91FF](https://via.placeholder.com/15/FFDC91FF/00000000?text=+) `#FFDC91FF`
+* ![#EE4C97FF](https://via.placeholder.com/15/EE4C97FF/00000000?text=+) `#EE4C97FF`
