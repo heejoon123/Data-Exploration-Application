@@ -35,4 +35,11 @@ The following list has been inspired from plots that have been previously publis
 
 The following list has been inspired from plots that have been previously published by **New England Journal of Medicine (NEJM)**
 
+* ![#BC3C29FF](https://via.placeholder.com/15/BC3C29FF/00000000?text=+) `#BC3C29FF`
+* ![#0072B5FF](https://via.placeholder.com/15/0072B5FF/00000000?text=+) `#0072B5FF`
+* ![#E18727FF](https://via.placeholder.com/15/E18727FF/00000000?text=+) `#E18727FF`
+
+
+
+
 
