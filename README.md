@@ -14,7 +14,7 @@ Currently within the Data tab of this application, there are two sub-tabs where 
 
 ### Uploading Data:
 
-Oh look this is <span style="color:blue">some *blue* text</span>
+Oh look this is <span style="color:blue">some *This is Blue italic.* text</span>
 
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
