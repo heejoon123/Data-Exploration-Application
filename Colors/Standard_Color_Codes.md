@@ -7,7 +7,7 @@ Color Palettes for ggplot2](https://cran.r-project.org/web/packages/ggsci/vignet
 
 ## Some Standard Plot Colors Sourced from Journals:
 
-The following list has been inspired from plots that have previously been published by the **Nature Publishing Group (NPG)** 
+The following list has been inspired from plots that have been previously published by **Nature Publishing Group (NPG)** 
 
 * ![#E64B35FF](https://via.placeholder.com/15/E64B35FF/00000000?text=+) `#E64B35FF`
 * ![#4DBBD5FF](https://via.placeholder.com/15/4DBBD5FF/00000000?text=+) `#4DBBD5FF`
@@ -33,6 +33,6 @@ The following list has been inspired from plots that have been previously publis
 * ![#808180FF](https://via.placeholder.com/15/808180FF/00000000?text=+) `#808180FF`
 * ![#1B1919FF](https://via.placeholder.com/15/1B1919FF/00000000?text=+) `#1B1919FF`
 
-
+The following list has been inspired from plots that have been previously published by **New England Journal of Medicine (NEJM)**
 
 
