@@ -10,14 +10,10 @@ The following information in this particular README file is for a general summar
 
 ## Data Tab:
 
-Currently within the Data tab of this application, there are two sub-tabs where the first is the very first step of using this tool, loading in the data file. The second sub-tab is taking that loaded file and looking at specific columns of interest and potentially downloading that sub-data as a csv file into a local folder.
+Currently within the Data tab of this application, there are two sub-tabs where the first is the very first step of using this tool, loading in the data file. The uploaded file must be in csv format, though the user can change some parameters of how the csv file gets loaded in. The second sub-tab is taking that loaded file and looking at specific columns of interest and potentially downloading that sub-data as a csv file into a local folder of the user's choice.
 
-### Uploading Data:
+## 2D Plot Tab:
 
-Text
 
-### Looking at subset of data and downlaoding it:
-
-Text
 
 Thank you for your support!
