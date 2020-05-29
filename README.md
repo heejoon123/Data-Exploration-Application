@@ -14,6 +14,14 @@ Currently within the Data tab of this application, there are two sub-tabs where 
 
 ## 2D Plot Tab:
 
+This tab allows the users to plot scatterplot, categorical scatterplot, jitter plot, boxplots, histograms, and violin plots. The plot types are separated by sub-tabs and the user can choose the variable of interest. The plots are generated using the help of plotly, and are interactive. There is a separate download button generated for the 2D Plots, so that the images could be saved in a slightly higher quality than plotly's automatic download settings, on a local folder. 
 
+## Correlational Plot Tab:
+
+This tab allows the users to generate a correlational plot that undergoes the "pearson" method. The user has options to choose which feature to plot. They also have the option to plot a scatterplot of the features to each other and save the correlational plot of interest.
+
+## More Plots Tab:
+
+text here.
 
 Thank you for your support!
