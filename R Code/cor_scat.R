@@ -50,6 +50,8 @@ myscatter_lower <- function(data,
 # making the function for the plotting of the correlational matrix with the scatterplot
 scatter_cor <- function(df, text_size = 0.75, psize = 0.05){
   df <- dplyr::select_if(df, is.numeric)
+  # removes the ID column just in case
+  df <- df[,-grep("^ID$", colnames(df), ignore.case=TRUE)]
   order <- corrMatOrder(cor(df), order="hclust")
   corrplot(cor(df), type="upper", method="color", order = "hclust", tl.pos = "tl",
            tl.cex = text_size, tl.srt=45, col=brewer.pal(n=8, name="PuOr"))
@@ -58,6 +60,10 @@ scatter_cor <- function(df, text_size = 0.75, psize = 0.05){
 
 ### Testing this on a test dataset to make sure this works
 test.df <- read.csv(file=file.choose())
+
+# color palette options for points
+myColors <- brewer.pal(8,"Dark2")
+names(myColors) <- levels(test.df$Cohort)
 
 # saving the image in the working directory folder
 png("ScatCor.png", width = 6, height = 7, units = 'in', res = 300)
