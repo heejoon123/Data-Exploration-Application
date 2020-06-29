@@ -48,7 +48,8 @@ myscatter_lower <- function(data,
 }
 
 # making the function for the plotting of the correlational matrix with the scatterplot
-scatter_cor <- function(df, pcolor = "blue",text_size = 0.75, psize = 0.05, remove_id=TRUE){
+scatter_cor <- function(df, pcolor = "blue",text_size = 0.75, psize = 0.05, remove_id=TRUE,
+                        cor_color = "PuOr", text_col="red"){
   df <- dplyr::select_if(df, is.numeric)
   # removes the ID column just in case
   if(remove_id==TRUE){
@@ -58,7 +59,7 @@ scatter_cor <- function(df, pcolor = "blue",text_size = 0.75, psize = 0.05, remo
   }
   order <- corrMatOrder(cor(df), order="hclust")
   corrplot(cor(df), type="upper", method="color", order = "hclust", tl.pos = "tl",
-           tl.cex = text_size, tl.srt=45, col=brewer.pal(n=8, name="PuOr"))
+           tl.cex = text_size, tl.col = text_col, tl.srt=45, col=brewer.pal(n=8, name=cor_color))
   myscatter_lower(df[,order], point_color = pcolor, point_size = psize)
 }
 
@@ -76,6 +77,5 @@ names(myColors) <- levels(test.df$Cohort)
 
 # saving the image in the working directory folder
 png("ScatCor.png", width = 6, height = 7, units = 'in', res = 300)
-scatter_cor(test.df,myColors,0.5, 0.05, remove_id=FALSE)
+scatter_cor(test.df,myColors,0.5, 0.05, text_col= "black",remove_id=FALSE)
 dev.off()
-
