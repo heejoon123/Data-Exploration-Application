@@ -48,24 +48,34 @@ myscatter_lower <- function(data,
 }
 
 # making the function for the plotting of the correlational matrix with the scatterplot
-scatter_cor <- function(df, text_size = 0.75, psize = 0.05){
+scatter_cor <- function(df, pcolor = "blue",text_size = 0.75, psize = 0.05, remove_id=TRUE){
   df <- dplyr::select_if(df, is.numeric)
   # removes the ID column just in case
-  df <- df[,-grep("^ID$", colnames(df), ignore.case=TRUE)]
+  if(remove_id==TRUE){
+    df <- df[,-grep("^id$", colnames(df), ignore.case=TRUE)]
+  }else{
+    df <- df
+  }
   order <- corrMatOrder(cor(df), order="hclust")
   corrplot(cor(df), type="upper", method="color", order = "hclust", tl.pos = "tl",
            tl.cex = text_size, tl.srt=45, col=brewer.pal(n=8, name="PuOr"))
-  myscatter_lower(df[,order], point_size = psize)
+  myscatter_lower(df[,order], point_color = pcolor, point_size = psize)
 }
 
 ### Testing this on a test dataset to make sure this works
 test.df <- read.csv(file=file.choose())
 
 # color palette options for points
-myColors <- brewer.pal(8,"Dark2")
+# before setting number of colors, make sure to see how many unique values there are for 
+# categorical values
+levels(test.df$Cohort)
+# based on number of unique levels, change number. Right now, it's set to 3.
+myColors <- brewer.pal(3,"Dark2")
+# change the categorical value based on dataset!
 names(myColors) <- levels(test.df$Cohort)
 
 # saving the image in the working directory folder
 png("ScatCor.png", width = 6, height = 7, units = 'in', res = 300)
-scatter_cor(test.df, 0.5, 0.025)
+scatter_cor(test.df,myColors,0.5, 0.05, remove_id=FALSE)
 dev.off()
+
