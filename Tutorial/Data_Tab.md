@@ -6,7 +6,9 @@ Once there, the first step is to upload the data. All data that is compatible wi
 
 With the use of an example dataset, the common, and publicly available Iris Data set, the image below illustrates the 
 
-![](./Data_head.png "")
+<p align="center">
+<img src="./Data_head.png" width="500" height="350">
+</p>
 
 There are other options on the application 
 
