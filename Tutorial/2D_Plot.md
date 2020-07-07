@@ -9,7 +9,7 @@ The 2D Plots are to specifically generate the following plots that are held with
 * Histogram
 * Violin Plot
 
-Each sub-tab will be explained more in-detail in the following. 
+Data is taken from the uploaded file from the **Data** tab. Data must be uploaded before anything can be plotted in the application. If the Data is in the **head** format, only those 10 rows will be taken into consideration. Make sure to select the **All** option to depict the whole data within the **Upload File** sub-tab. Each sub-tab will be explained more in-detail in the following. 
 
 ### Scatterplot
 
@@ -37,4 +37,52 @@ This sub-tab differs from the one above in that the points on the plot could be 
 
 ### Jitter Plot
 
+Click on the sub-tab **"Jitter"** for this 2D plot type. Here, the user gets to do plot the scatterplot of the distribution for the categorical features if they wish to. Otherwise, the user could color the points as a third feature in this plot instead. The user selects the features to plot like the Scatterplot sub-tabs above. 
+
+The first image is that of the distribution of categorical features as plotted via plotly. This plot is interactive and information gets displayed here for the values. 
+
+<p align="center">
+<img src="./jitter1.png" width="550" height="400">
+</p>
+
+The second image is that of the color of the points being by a third feature. This is also generated via plotly and is interactive.
+<p align="center">
+<img src="./jitter2.png" width="550" height="400">
+</p>
+
+The download button here also allows the users to save the plot as a png file. 
+
+### Boxplot
+
+To access this sub-tab, just click on the sub-tab named **Boxplot**. Here, the user can select the independent feature, which has to be a categorical feature, and the dependent feature, which is a numerical/continuous feature. This plot generates a boxplot via plotly, and therefore interactive, Clicking on the categorical feature in the legends section will help with interactions as well. The image below depicts how this appears with the Iris data set. 
+
+<p align="center">
+<img src="./boxplot.png" width="500" height="300">
+</p>
+
+The download button allows users to save the plot as a png file on a local folder.
+
+### Histogram
+
+To access this sub-tab, the user clicks on the sub-tab **Histogram**. Once the user accessed the page, the user selects the feature to depict the distribution in a histogram format. 
+
+<p align="center">
+<img src="./histogram.png" width="500" height="300">
+</p>
+
+The download button is here as well and the users can save the plot as a png file format.
+
+### Violin Plot
+
+To access this sub-tab, the user clicks on the sub-tab **Violin Plot**. In this sub-tab, the plot is very much like the boxplot sub-tab where the user selects the independent and dependent features.The independent feature must be a categorical feature, while the dependent feature must be a numerical/continuous feature.
+
+<p align="center">
+<img src="./violin.png" width="500" height="300">
+</p>
+
+This plot is generated via plotly as well and thus interactive. To download the image, make sure to click the Download button for the png format.
+
+## Working with Plotly in this Tab
+
+Plotly is essentially an interactive graphing library. It is free to use in R and Python. Plotly plots within the application allow various different interactions, and they will be described below.
 
