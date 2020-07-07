@@ -21,9 +21,6 @@ Click on the **2D Plots** tab, and then go to the **scatterplots** sub-tab. Ther
 
 The user also has the option to change the color of the points. This is displayed in the short clip below. The user can choose the colors accordingly. This feature is also available in the **Histogram** plot sub-tab.
 
-<video align="center" width="320" height="240" controls>
-  <source src="./scatter_color.mov" type="video/mp4">
-</video>
+![](./scatter_color.mov)
 
-
-
+Video above
