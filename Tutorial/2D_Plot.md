@@ -9,4 +9,8 @@ The 2D Plots are to specifically generate the following plots that are held with
 * Histogram
 * Violin Plot
 
-Each sub-tab will be explained more in-detail in the following 
+Each sub-tab will be explained more in-detail in the following. 
+
+### Scatterplot
+
+
