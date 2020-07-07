@@ -21,6 +21,10 @@ Click on the **2D Plots** tab, and then go to the **scatterplots** sub-tab. Ther
 
 The user also has the option to change the color of the points. This is displayed in the short clip below. The user can choose the colors accordingly. This feature is also available in the **Histogram** plot sub-tab.
 
-![](./scatter_color.mov)
+<p align="center">
+<img src="./scatter_color.gif" width="500" height="400">
+</p>
 
-Video above
+In addition to this user option, the plot that is generated is created from plotly. Plotly plots allow users to interact with the plot. Upon hovering the mouse, a popup appears to display the information that gets provided.
+
+### Categorical Scatterplot
