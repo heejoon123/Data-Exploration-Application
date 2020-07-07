@@ -6,7 +6,7 @@ Once there, the first step is to upload the data. All data that is compatible wi
 
 With the use of an example dataset, the common, and publicly available Iris Data set, the image below illustrates the 
 
-![](.Data_head.png "")
+![](/Users/heejoonahn/Desktop/Research/Ackerman Lab/Git Images/Data_head.png "")
 
 There are other options on the application 
 
