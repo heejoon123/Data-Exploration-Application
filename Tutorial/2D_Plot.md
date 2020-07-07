@@ -25,6 +25,12 @@ The user also has the option to change the color of the points. This is displaye
 <img src="./scatter_color.gif" width="500" height="400">
 </p>
 
-In addition to this user option, the plot that is generated is created from plotly. Plotly plots allow users to interact with the plot. Upon hovering the mouse, a popup appears to display the information that gets provided.
+In addition to this user option, the plot that is generated is created from plotly. Plotly plots allow users to interact with the plot. Upon hovering the mouse, a popup appears to display the information that gets provided. A download button is available on the bottom-lefthand side for the user to save the plot to a local folder as an png file.
 
 ### Categorical Scatterplot
+
+This sub-tab differs from the one above in that the points on the plot could be differentiated by a categororical feature by the user. There are no calculated values, and the tab is solely for visualization. The user, like the Scatterplot tab, chooses the independent and dependent features to plot. They can also select the categorical feature. The plot will automatically take these input selections and generate the plot for the user. There is also a download button available to save the plot as a png file into a local folder of the users' choice as well.
+
+
+
+
