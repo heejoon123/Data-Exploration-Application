@@ -23,8 +23,10 @@ However, this could be entirely cumbersome, and the user may want the full datas
 
 In this sub-tab, the user can select the columns of interest that they wish to see, and display it in a cleaner format. The image below depicts how the preset table displays only selected columns from the options. There is a search box that allows interaction with the data set for search purposes. The number option is the option of how many rows could be displayed in one setting. The preset is 10 rows, but the user can also click on the different numbered "pages" of the data to look through the data. This version of the data can be saved as a csv file onto a local folder if the user wishes to take this new dataset and save it.
 
+<p align="center">
+<img src="./handle_data.png" width="500" height="350">
+</p>
 
-
-
+From here, the user can then move onto the other tabs for data visualization basic statistical analysis.
 
 
