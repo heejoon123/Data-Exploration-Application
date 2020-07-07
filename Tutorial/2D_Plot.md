@@ -31,6 +31,10 @@ In addition to this user option, the plot that is generated is created from plot
 
 This sub-tab differs from the one above in that the points on the plot could be differentiated by a categororical feature by the user. There are no calculated values, and the tab is solely for visualization. The user, like the Scatterplot tab, chooses the independent and dependent features to plot. They can also select the categorical feature. The plot will automatically take these input selections and generate the plot for the user. There is also a download button available to save the plot as a png file into a local folder of the users' choice as well.
 
+<p align="center">
+<img src="./categorical_scatter.png" width="525" height="400">
+</p>
 
+### Jitter Plot
 
 
