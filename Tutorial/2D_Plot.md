@@ -86,3 +86,14 @@ This plot is generated via plotly as well and thus interactive. To download the 
 
 Plotly is essentially an interactive graphing library. It is free to use in R and Python. Plotly plots within the application allow various different interactions, and they will be described below.
 
+<p align="center">
+<img src="./plotly.png" width="500" height="400">
+</p>
+
+As the image shows, there is a camera button. This button is for downloading the plot to a local folder. However, the difference from the application's separate **Download** button is that plotly's download does it in a lower resolution and thus does not return a sharp and clean image. Upon clicking the camera icon, the user can download the image into a local folder. 
+
+The other buttons allow the user to zoom into the plot via selection of a section of the plot or the other buttons. The users are encouraged to play around with the buttons. There is also a reset button that allows the users to refresh the plot with the same features plotted to show the entire plot. 
+
+As shown by the image, hovering over the points shows the informational popup with the values of interest. 
+
+
