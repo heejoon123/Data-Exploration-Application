@@ -1,8 +1,5 @@
-# Independent Study Project for dAbL Lab
+# Independent Study Project 
 #### Author : Heejoon Ahn
-#### Advisors: Professor Margaret Ackerman and Professor Anne Hoen
-#### Institution: Dartmouth College
-#### Quantitative Biomedical Sciences Independent Study
 
 Welcome to the dAbLication repository. This repository holds the tool that could be utilized for data visualization of various types for researchers in the aim to make it similar to GraphPad's Prism tool. The dAbLication requires less data loading as it only requires the user to load the data file of interest once and no copy and pasting! 
 
